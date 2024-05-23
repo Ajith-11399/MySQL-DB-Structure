@@ -14,7 +14,7 @@
 </ul>
 
 <h4>In this Task, Student is a Main Table, a student can view his/her performance data like, <br>
-1). Can view and upload tasks, were given by the mentor under Task Table<br>)
+1). Can view and upload tasks, were given by the mentor under Task Table<br>
 2). Can view their attendance in percentage in Attendance Table <br> 
 3). Can join session by session link given under the Session Table<br>
 4). Student's Feedback were under the Feedback Table<br>
